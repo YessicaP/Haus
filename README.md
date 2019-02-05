@@ -2,7 +2,7 @@
 ## HOME
 #### (Ésta parte será OnePage, la cual contendrá imágenes de cada una de las secciones, con una breve descripción, y un botón que dirija hacia la sección correspondiente)
 #### -¿Qué fue la Bauhaus?
-#### -Alfred Arnt
+#### -Alfred Arndt
 #### -George Muche
 #### -Museo
 #### -Tienda
@@ -15,4 +15,10 @@
 ######  -Dirección.
 ######  -Mapa.
 ##### -¿Sabías qué...?
+## ALFRED ARNDT
+##### (Imagen de Alfred Arndt, con nombre sobre ella)
+##### Vida
 
+## GEORGE MUCHE
+## MUSEO
+## TIENDA
