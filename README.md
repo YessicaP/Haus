@@ -1,2 +1,4 @@
 # Haus
-Proyecto de la Bauhaus
+## HOME
+### ¿Qué fue la Bauhaus?
+### ¿
