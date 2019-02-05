@@ -9,8 +9,10 @@
 ## ¿QUÉ FUE LA BAUHAUS?
 ### (Imagen de la escuela Bauhaus, con título)
 #### -Historia
+##### La Bauhaus (nombre derivado de la unión de las palabras en alemán “Bau”: construcción y “Haus”: casa)
 #### -Estudiantes (Se presentarán en casillas de 5 columnas, cada una contendrá la imágen del estudiante, sobre ella el nombre, y al dar click sobre la imágen, éste conducirá hacia su biografía).
 ##### -Ubicación 
 ######  -Dirección.
 ######  -Mapa.
-###
+##### -¿Sabías qué...?
+
