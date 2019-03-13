@@ -1,0 +1,37 @@
+/********Custom properties**********/
+:root{
+    --first-color: rgb(217, 0, 98);
+    --first-modal-color: rgb(217, 0, 98, .75);     /**"Modal/Opacity": Indicar que es color con opacidad**/
+    --second-color: rgb(28, 25, 45);
+    --second-modal-color: rgb(28, 25, 45, .75);
+    --third-color: rgb(80, 28, 100);
+    --third-modal-color: rgb(80, 28, 100, .75);
+    --link-color: rgb(80, 158, 227);
+}
+
+
+/********   Reset Styles ********/
+body{
+    font-family: 'Raleway', sans-serif;
+
+}
+
+
+/********   Boostrap Styles   ********/
+/********    My Styles    ********/
+/********     Media Quaries Small    ********/
+*@media (min-width: 576px){
+}
+/********     Media Quaries Medium    ********/
+*@media (min-width: 768px){
+    
+}
+/********     Media Quaries Large    ********/
+*@media (min-width: 992px){
+    
+}
+/********     Media Quaries Extra 
+Large    ********/
+*@media (min-width: 1200px){
+    
+}
